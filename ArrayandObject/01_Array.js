@@ -24,6 +24,7 @@ const n1 = myArr.slice(1, 3)
 console.log(" A " ,myArr);
 console.log(n1);
 
+// Array.isArray , Array.from and Array.of 
 
 const n2 = myArr.splice(1,3)
 console.log(" B ",myArr);
